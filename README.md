@@ -1,4 +1,4 @@
-# Youn# Young's Modulus Calculator
+# Young's Modulus Calculator
 
 A comprehensive Python program to measure and calculate Young's modulus for different rod materials using bending experiments.
 
