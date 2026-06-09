@@ -54,7 +54,7 @@ This method is more accurate because:
 ### Running the Program
 
 ```bash
-python youngs_modulus_calculator.py
+python main.py
 ```
 
 ### Step-by-Step Process
